@@ -15,32 +15,34 @@ export const MainListingArea = ({ data }) => {
   };
 
   return (
-    <div className="listing-area grid">
+    <>
       {data.length ? (
-        data.map((property, id) => {
-          return (
-            <PropertyCard
-              key={id}
-              propertyIndex={id}
-              image={property.imageUrl}
-              alt={property.alternate}
-              price={property.price}
-              name={property.name}
-              state={property.state}
-              headline={property.headline}
-              details={property.details}
-              availability={property.dateAvailable}
-              favouriteProperty={favouriteProperty}
-              displayIcon={true}
-              propertyId={property.id}
-            />
-          );
-        })
+        <div className="listing-area grid">
+          {data.map((property, id) => {
+            return (
+              <PropertyCard
+                key={id}
+                propertyIndex={id}
+                image={property.imageUrl}
+                alt={property.alternate}
+                price={property.price}
+                name={property.name}
+                state={property.state}
+                headline={property.headline}
+                details={property.details}
+                availability={property.dateAvailable}
+                favouriteProperty={favouriteProperty}
+                displayIcon={true}
+                propertyId={property.id}
+              />
+            );
+          })}
+        </div>
       ) : (
         <div className="text-center">
           <h4>No result found</h4>
         </div>
       )}
-    </div>
+    </>
   );
 };

@@ -32,7 +32,9 @@ export const Favourites = () => {
             );
           })
         ) : (
-          <div>No Favourite property</div>
+          <div className="text-center">
+            <h4>No Favourite property</h4>
+          </div>
         )}
       </div>
     </div>
