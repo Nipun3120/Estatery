@@ -2,8 +2,8 @@
 
 install dependencies:
 
-### `npm install`
+### `$ npm install`
 
 you can run:
 
-### `npm start`
+### `$ npm start`
