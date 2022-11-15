@@ -1,12 +1,13 @@
 export const data = [
   {
-    imageUrl: "https://images.alphacoders.com/435/435117.jpg",
+    imageUrl:
+      "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress&cs=tinysrgb&w=800",
     alternate: "House",
     price: "$2096/month",
     name: "Palm harbour",
     state: "Florida",
     city: "Florida",
-    headline: "299, Green ValleyHighland Lake Florida, FL, USA",
+    headline: "63719 Keebler Rapids, Suite 693 Florida, FL, USA",
     details: {
       beds: "3 Beds",
       bathrooms: "3 Bathrooms",
@@ -19,13 +20,14 @@ export const data = [
   },
   {
     imageUrl:
-      "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyamin-mellish-106399.jpg&fm=jpg&_gl=1*1bd5wq*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODI3MzA4OS4xLjEuMTY2ODI3MzA5NS4wLjAuMA..",
+      "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg",
     alternate: "House",
     price: "$3659/month",
     name: "Beverley SpringField",
     state: "California",
     city: "San Francisco",
-    headline: "456, Walnut Creek, Concord, San Francisco, CA, USA",
+    headline:
+      "3217 Weissnat Summit, Suite 025, Concord, San Francisco, CA, USA",
     details: {
       beds: "4 Beds",
       bathrooms: "5 Bathrooms",
@@ -38,13 +40,13 @@ export const data = [
   },
   {
     imageUrl:
-      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg&_gl=1*1hgfja*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODI3MzA4OS4xLjEuMTY2ODI3MzMwMi4wLjAuMA..",
+      "https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?cs=srgb&dl=pexels-pixabay-259685.jpg&fm=jpg&_gl=1*3ob7l7*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODUwMTAwMC4zLjEuMTY2ODUwMTA5NC4wLjAuMA..",
     alternate: "House",
     price: "$5522/month",
     name: "Faulkner Ave",
     state: "New York",
     city: "New York",
-    headline: "678, Green Valley Highland, Queens, NY, USA",
+    headline: "29490 Guillermo Freeway, Apt. 416, Queens, NY, USA",
     details: {
       beds: "4 Beds",
       bathrooms: "5 Bathrooms",
@@ -57,13 +59,13 @@ export const data = [
   },
   {
     imageUrl:
-      "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?cs=srgb&dl=pexels-pixabay-164558.jpg&fm=jpg&_gl=1*k9gwqm*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODI3MzA4OS4xLjEuMTY2ODI3NTQ0MC4wLjAuMA..",
+      "https://images.pexels.com/photos/10430976/pexels-photo-10430976.jpeg?auto=compress&cs=tinysrgb&w=800",
     alternate: "House",
     price: "$2222/month",
     name: "Palm Villa",
     state: "Washington",
     city: "Seattle",
-    headline: "890, Green Valley Highland, Seattle, WA, USA",
+    headline: "401 Guido Drive, Apt. 063, Seattle, WA, USA",
     details: {
       beds: "2 Beds",
       bathrooms: "3 Bathrooms",
@@ -72,17 +74,17 @@ export const data = [
     },
     dateAvailableFrom: "2022-12-10",
     id: 4,
-    propertyType: "house",
+    propertyType: "Apartment",
   },
   {
     imageUrl:
-      "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?cs=srgb&dl=pexels-pixabay-280222.jpg&fm=jpg&_gl=1*13gxdqv*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODI3MzA4OS4xLjEuMTY2ODI3NDY4OC4wLjAuMA..",
+      "https://images.pexels.com/photos/323781/pexels-photo-323781.jpeg?cs=srgb&dl=pexels-expect-best-323781.jpg&fm=jpg&_gl=1*12x6u25*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODUwMTAwMC4zLjEuMTY2ODUwMTEyMi4wLjAuMA..",
     alternate: "House",
     price: "$6561/month",
     name: "The Mansion",
     state: "New York",
     city: "New York",
-    headline: "98106 Rodriguez Port, Apt. 268, Queens, NY, USA",
+    headline: "696 Chelsey Freeway, Apt. 791, Queens, NY, USA",
     details: {
       beds: "4 Beds",
       bathrooms: "3 Bathrooms",
@@ -95,13 +97,13 @@ export const data = [
   },
   {
     imageUrl:
-      "https://images.pexels.com/photos/32870/pexels-photo.jpg?cs=srgb&dl=pexels-chris-goodwin-32870.jpg&fm=jpg&_gl=1*1vdmcav*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODI3MzA4OS4xLjEuMTY2ODI3NDg0My4wLjAuMA..",
+      "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?cs=srgb&dl=pexels-pixabay-208736.jpg&fm=jpg&_gl=1*dimvic*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODUwMTAwMC4zLjAuMTY2ODUwMTAwNS4wLjAuMA..",
     alternate: "House",
     price: "$7122/month",
     name: "Mansion",
-    state: "California",
-    city: "Los Angeles",
-    headline: "7027 Bergnaum Light, Apt. 270, LA, United States",
+    state: "Miami",
+    city: "Florida",
+    headline: "49801 Jessica Rest, Suite 165, Florida, US",
     details: {
       beds: "4 Beds",
       bathrooms: "3 Bathrooms",
@@ -111,5 +113,63 @@ export const data = [
     dateAvailableFrom: "2022-12-15",
     id: 6,
     propertyType: "Mansion",
+  },
+
+  {
+    imageUrl:
+      "https://images.pexels.com/photos/534228/pexels-photo-534228.jpeg?cs=srgb&dl=pexels-pixabay-534228.jpg&fm=jpg&_gl=1*1hsv366*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODUwMTAwMC4zLjEuMTY2ODUwMjA0MS4wLjAuMA..",
+    alternate: "House",
+    price: "$3400/month",
+    name: "Hansen Vista",
+    state: "Nevada",
+    city: "Las Vegas",
+    headline: "49801 Summit, Suite 6865,Las Vegas, NV, US",
+    details: {
+      beds: "44Beds",
+      bathrooms: "2 Bathrooms",
+      length: 5,
+      width: 8,
+    },
+    dateAvailableFrom: "2022-12-15",
+    id: 7,
+    propertyType: "Villa",
+  },
+  {
+    imageUrl:
+      "https://images.pexels.com/photos/1105754/pexels-photo-1105754.jpeg?cs=srgb&dl=pexels-jens-mahnke-1105754.jpg&fm=jpg&_gl=1*ztl9q6*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODUwMTAwMC4zLjEuMTY2ODUwMjQxOS4wLjAuMA..",
+    alternate: "House",
+    price: "$8150/month",
+    name: "Odessa Motorway",
+    state: "Washington",
+    city: "Seattle",
+    headline: "5639 Walter Plains, Apt. 4065, Seattle, US",
+    details: {
+      beds: "5 Beds",
+      bathrooms: "4 Bathrooms",
+      length: 10,
+      width: 8,
+    },
+    dateAvailableFrom: "2022-12-15",
+    id: 8,
+    propertyType: "Pent House",
+  },
+  {
+    imageUrl:
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg&_gl=1*1jc661h*_ga*MTI5NTg5NjI1Ny4xNjY4MjczMDg4*_ga_8JE65Q40S6*MTY2ODUwMTAwMC4zLjEuMTY2ODUwMjQ1NS4wLjAuMA..",
+    alternate: "House",
+    price: "$4250/month",
+    name: "Witting Road",
+    state: "California",
+    city: "San Francisco",
+    headline: "127 Lynch Extensions, Suite 601, Florida, US",
+    details: {
+      beds: "5 Beds",
+      bathrooms: "5 Bathrooms",
+      length: 9,
+      width: 9,
+    },
+    dateAvailableFrom: "2022-11-22",
+    id: 9,
+    propertyType: "Villa",
   },
 ];
