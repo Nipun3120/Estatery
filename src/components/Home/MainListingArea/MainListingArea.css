@@ -1,0 +1,10 @@
+.listing-area {
+  margin: 2rem 10rem;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  justify-items: stretch;
+  justify-content: space-between;
+  row-gap: 5rem;
+}

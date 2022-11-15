@@ -1,0 +1,40 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 5rem;
+  background-color: #fbfafe;
+  border-bottom: 1px solid #e7e6f9;
+}
+.nav-links-ul {
+  list-style: none;
+  margin-left: 3rem;
+}
+.nav-links-ul li {
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.nav-links-ul li:hover,
+.nav-active {
+  background-color: #e7e6f9;
+  border-radius: 0.2rem;
+  color: #7064f0;
+}
+.nav-links-ul li:active {
+  background-color: #e7e6f9;
+  border-radius: 0.2rem;
+  color: #7064f0;
+}
+.margin-left-1 {
+  margin-left: 1rem;
+}
+
+.logo-icon {
+  color: #7064f0;
+}
+.estatery {
+  text-decoration: none;
+  color: #000;
+}

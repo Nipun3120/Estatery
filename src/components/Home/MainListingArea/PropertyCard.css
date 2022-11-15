@@ -1,0 +1,49 @@
+.property-card {
+  width: 20rem;
+  color: #808080;
+  background-color: white;
+  border-radius: 0.25rem;
+}
+.card-image {
+  height: 12rem;
+  width: 20rem;
+  border-radius: 0.25rem 0.25rem 0 0;
+}
+.card-description {
+  padding: 1rem;
+}
+.card-price {
+  font-size: larger;
+  color: #7064f0;
+  font-weight: bold;
+}
+.heart-icon {
+  color: #7064f0;
+  padding: 0.5rem;
+  border: 1px solid #e7e6f9;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.card-description__name {
+  font-size: larger;
+  font-weight: bolder;
+  color: #303030;
+  margin: 0.5rem 0;
+}
+.card-headline {
+  line-height: 1.5rem;
+  font-weight: 300;
+}
+.card-icons {
+  color: #7064f0;
+  margin-right: 0.25rem;
+}
+.nowrap {
+  white-space: nowrap;
+  overflow: hidden;
+}
+hr {
+  border-top: 0.5px solid #e7e6f9;
+  width: 100%;
+  margin: 1rem 0;
+}
